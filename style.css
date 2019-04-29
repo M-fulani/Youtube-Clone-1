@@ -9,3 +9,31 @@ background:lightblue;
 height:80px;
 box-shadow: 0 2px 2px 2px  rgb(146, 129, 129);
 }
+
+section {
+    display:flex;
+    justify-content: center;
+}
+
+.player {
+    background:lightslategray;
+    width:60rem;
+    height: 40rem;
+}
+
+.description {
+    background:lightcoral;
+    width:60rem;
+    height:20rem;
+}
+
+.sidepanel {
+    width:25rem;
+    height:auto;
+    min-height:60rem;
+    background:lightseagreen;
+}
+
+footer {
+    
+}
