@@ -1,13 +1,32 @@
-*{
+body{
     margin:0;
     padding:0;
 }
 
+/* .container {
+    width: 100%;
+    margin:0;
+    padding:0;
+    background-color: white;
+} */
+#end {
+    display: flex;
+    margin-right: 20px;
+
+}
+
+.search {
+    /* justify-content: center; */
+    /* padding: 20px; */
+}
 header {
 width:100%;
-background:lightblue;
-height:80px;
-box-shadow: 0 2px 2px 2px  rgb(146, 129, 129);
+background:white;
+justify-content: flex-start;
+display: flex;
+height:60px;
+position: fixed;
+box-shadow: 0 2px 2px 2px  rgb(233, 223, 223);
 }
 
 section {
