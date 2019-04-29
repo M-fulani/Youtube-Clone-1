@@ -11,15 +11,27 @@ body{
 } */
 #end {
     display: flex;
-    margin-right: 20px;
-
+    margin-left: 20%;
+    
+}
+#end .fas {
+    padding:20px;
 }
 
+ .fab {
+color:red;
+}
+.toggle {
+    margin-left:20px;
+    margin-right:20px;
+}
 .search {
-    /* justify-content: center; */
-    /* padding: 20px; */
+    margin-left: 20%;
+
 }
+
 header {
+    align-items: center;
 width:100%;
 background:white;
 justify-content: flex-start;
