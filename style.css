@@ -1,0 +1,11 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+header {
+width:100%;
+background:lightblue;
+height:80px;
+box-shadow: 0 2px 2px 2px  rgb(146, 129, 129);
+}
