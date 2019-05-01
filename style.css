@@ -1,0 +1,70 @@
+body{
+    margin:0;
+    padding:0;
+}
+
+/* .container {
+    width: 100%;
+    margin:0;
+    padding:0;
+    background-color: white;
+} */
+#end {
+    display: flex;
+    margin-left: 20%;
+    
+}
+#end .fas {
+    padding:20px;
+}
+
+ .fab {
+color:red;
+}
+.toggle {
+    margin-left:20px;
+    margin-right:20px;
+}
+.search {
+    margin-left: 20%;
+
+}
+
+header {
+    align-items: center;
+width:100%;
+background:white;
+justify-content: flex-start;
+display: flex;
+height:60px;
+position: fixed;
+box-shadow: 0 2px 2px 2px  rgb(233, 223, 223);
+}
+
+section {
+    display:flex;
+    justify-content: center;
+}
+
+.player {
+    background:lightslategray;
+    width:60rem;
+    height: 40rem;
+}
+
+.description {
+    background:lightcoral;
+    width:60rem;
+    height:20rem;
+}
+
+.sidepanel {
+    width:25rem;
+    height:auto;
+    min-height:60rem;
+    background:lightseagreen;
+}
+
+footer {
+    
+}
