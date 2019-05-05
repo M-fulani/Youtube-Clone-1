@@ -2,7 +2,9 @@ body{
     margin:0;
     padding:0;
 }
-
+.main {
+    padding: 0 20px;
+}
 
 #end {
     display: flex;
@@ -71,14 +73,20 @@ section {
   
 }
 
-.sidepanel ul li {
+.sidepanel ul{
     list-style-type: none;
     display:flex;
 
 }
 
-.sidepanel ul li span {
-    margin-left: 20px;
+.sidepanel ul li  {
+    margin-left: 10px;
+    
+}
+
+.sidepanel ul li p {
+    line-height:2px;
+    
 }
 
 #first_items{
@@ -93,9 +101,14 @@ hr{
     color:lightslategray;
 }
 
+.sub-second{
+ display:flex;
+ flex-direction: column;
+}
 .second {
     display: flex;
     justify-content: space-between;
+    align-items: flex-start;
 }
 
 .second p:last-child{
