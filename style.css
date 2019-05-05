@@ -89,11 +89,11 @@ section {
     
 }
 
-#first_items{
+.first_items{
     margin-top:20px;
 }
 
-#first_items .fas{
+.first_items .fas{
     padding:10px;
     color:lightslategray;
 }
@@ -101,7 +101,7 @@ hr{
     color:lightslategray;
 }
 
-.sub-second{
+.second_items{
  display:flex;
  flex-direction: column;
 }
