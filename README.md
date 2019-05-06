@@ -12,7 +12,7 @@ Contributors
 ------------
 
 Ngodi Albert (@ngodi)  
-Kingsley Chijioke (@ kingsdevtech)
+Kingsley Chijioke (@KingsTechDev )
 
 Project link
 ------------
